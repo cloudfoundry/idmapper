@@ -5,7 +5,7 @@ go 1.12
 require (
 	github.com/golang/protobuf v1.3.2 // indirect
 	github.com/kr/pretty v0.1.0 // indirect
-	github.com/onsi/ginkgo v1.9.0
+	github.com/onsi/ginkgo v1.10.1
 	github.com/onsi/gomega v1.6.0
 	github.com/opencontainers/runtime-spec v1.0.1
 	golang.org/x/net v0.0.0-20190827160401-ba9fcec4b297 // indirect
