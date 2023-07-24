@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/onsi/ginkgo/v2 v2.11.0
 	github.com/onsi/gomega v1.27.8
-	github.com/opencontainers/runtime-spec v1.0.2
+	github.com/opencontainers/runtime-spec v1.1.0
 )
 
 require (
